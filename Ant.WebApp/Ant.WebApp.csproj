@@ -4,4 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Ant.Database\Ant.Database.csproj" />
+  </ItemGroup>
+
+
+
 </Project>
